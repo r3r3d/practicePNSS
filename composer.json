@@ -1,0 +1,14 @@
+{
+    "name": "rodya-faust/practice-pnss",
+    "description": "practika",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "r3r3d",
+            "email": "mrstream378@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
